@@ -1,4 +1,3 @@
-// hooks/useBitcoinRates.js
 import { useState, useEffect } from 'react';
 
 const useBitcoinExchangeRate = (initialCurrency) => {

@@ -1,4 +1,3 @@
-// components/BitcoinRates.jsx
 import React from 'react';
 import useBitcoinExchangeRate from '../hooks/useBitcoinRates';
 
